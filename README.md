@@ -8,3 +8,4 @@ Ultimately, this tool will be used to perform trade studies and optimization ana
 Propulsion Systems alternatives for Lunar and Martian endeavors, where missions impose higher power supply
 requirements.
 
+![alt text](Graphics/Perf_Github.PNG)
