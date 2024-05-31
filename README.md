@@ -25,7 +25,7 @@ To fully derive the engine performance, the electrical efficiency has to be assu
 overcome by relying on the subsystems decomposition of the propulsion module, especially the Power Processing 
 Unit (PPU), that actually governs the power input and therefore the electrical efficiency of the engine.
 
-# Subsystems Decomposition for mass assessment
+# Subsystems decomposition for mass assessment
 
 This part aims to give a comprehensive subsystems decomposition of the ion engine. It chooses a specific choice 
 of components and is therefore representative of one particular configuration. It be updated to represent any ion
