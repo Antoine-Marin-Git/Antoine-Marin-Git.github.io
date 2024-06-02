@@ -14,7 +14,7 @@ Disclaimer: Cf code for equations
 
 The performance assessment is performed by implemeting the equations governing the ion engine principles. 
 The model aims to derive the performance metrics of interest based on the physics of the ion engine, which
-include capturing the non ideality of the system by taking into account ion beam properties, correction factors, 
+includes capturing the non ideality of the system by taking into account ion beam properties, correction factors, 
 and efficiencies.
 
 This formulation allows to link the following inputs and ouputs from Table 1.
