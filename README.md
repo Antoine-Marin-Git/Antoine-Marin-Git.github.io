@@ -64,8 +64,10 @@ supplies and command, control, and telemetry circuits.
 
 Figure 2: Power Processing Unit (PPU) simplified schematic
 
-
-
+Since the scaling equations are mostly linear, it is assumed they are still valid for ion engines requiring higher
+input power. An efficiency is associated with each of the sub components to derive their respective output power.
+An iterative loop is then implemented to make the electrical efficiency guessed from the performance model, 𝜂<sub>e<\sub>, 
+match the PPU efficiency, 𝜂<sub>PPU<\sub>, and derive the actual total input engine power 𝑃<sub>e<\sub>.
 
 
 
