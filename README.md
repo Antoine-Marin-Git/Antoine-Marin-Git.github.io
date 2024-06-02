@@ -69,7 +69,7 @@ input power. An efficiency is associated with each of the sub components to deri
 An iterative loop is then implemented to make the electrical efficiency guessed from the performance model, 𝜂<sub>e</sub>, 
 match the PPU efficiency, 𝜂<sub>PPU</sub>, and derive the actual total input engine power 𝑃<sub>e</sub>.
 
-# Limitations
+# Results & Findings
 
 Results on use cases derived from litterature and actual flying ion engines show the performance metrics and mass assessment 
 are well captured by this model. The limitations rely on understanding what this model is made for: a few kW to 10s of kW 
