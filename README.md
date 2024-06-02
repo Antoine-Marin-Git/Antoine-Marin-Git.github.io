@@ -19,6 +19,7 @@ and efficiencies.
 
 This formulation allows to link the following inputs and ouputs from Table 1.
 ![alt text](Graphics/Perf_Github.PNG)
+
 Table 1: Ion Engine Performance Model Inputs and Outputs
 
 To fully derive the engine performance, the electrical efficiency has to be assumed. This limitation will be 
@@ -43,4 +44,5 @@ mechanism, roll rings, and the overall support structure.
 Table 1 gives a visual representation of this decomposition
 
 ![alt text](Graphics/SysDec_Github.PNG)
+
 Figure 1: Propulsion System Decomposition
