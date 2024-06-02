@@ -69,8 +69,14 @@ input power. An efficiency is associated with each of the sub components to deri
 An iterative loop is then implemented to make the electrical efficiency guessed from the performance model, 𝜂<sub>e</sub>, 
 match the PPU efficiency, 𝜂<sub>PPU</sub>, and derive the actual total input engine power 𝑃<sub>e</sub>.
 
+# Limitations
 
-
+Results on use cases derived from litterature and actual flying ion engines show the performance metrics and mass assessment 
+are well captured by this model. The limitations rely on understanding what this model is made for: a few kW to 10s of kW 
+propulsion systems power requirements. This model is therefore not well suited for performance and mass assessment of smaller 
+thrusters (for nanosats for instance). Additionally, the beam voltage is an input while ideally it should be an output. The choice
+has been made to make it an input since it would become a design exercise to make it an output, which is not the goal of this model. This
+study aims indeed to support high-level trade studies analysis on propulsion systems alternatives for cislunar space endeavors and beyond.
 
 
 
