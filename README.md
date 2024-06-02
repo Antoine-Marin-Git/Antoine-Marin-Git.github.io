@@ -44,8 +44,36 @@ battery system when the solar power source configuration is adopted.
 • The Power Interface Module: only applies when the solar power source configuration is envisioned. It considers
 the solar array and the systems associated with it such as the Power Monitor Unit (PMU), the articulation
 mechanism, roll rings, and the overall support structure.
+
 Table 1 gives a visual representation of this decomposition
 
 ![alt text](Graphics/SysDec_Github.PNG)
 
 Figure 1: Propulsion System Decomposition
+
+The mass of the ddifferent elements of each module is derived as a function of design characteristics or engine performance.
+(cf code for equations)
+
+# Closing the Loop
+
+The PPU is responsible for processing the power coming from the power source and distributing it to the electrical subsystems. It 
+is comprised of 6 sub components shown Fig. 2: the input filter, the beam and discharge supplies, the DC/AC inverter, low level power 
+supplies and command, control, and telemetry circuits.
+
+![alt text](Graphics/Eff_Github.PNG)
+
+Figure 2: Power Processing Unit (PPU) simplified schematic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
