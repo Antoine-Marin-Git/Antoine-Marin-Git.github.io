@@ -28,7 +28,7 @@ Unit (PPU), that actually governs the power input and therefore the electrical e
 
 # Subsystems decomposition for mass assessment
 
-This part aims to give a comprehensive subsystems decomposition of the ion engine. It chooses a specific choice 
+This part aims to give a comprehensive subsystems decomposition of the ion engine. As is, it is based on a specific choice 
 of components and is therefore representative of one particular configuration. It be updated to represent any ion
 engine given one's specific constraints or engineering reality.
 The Ion Propulsion System is therefore decomposed into 3 submodules:
