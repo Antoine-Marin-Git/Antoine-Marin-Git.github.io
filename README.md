@@ -31,13 +31,13 @@ This part aims to give a comprehensive subsystems decomposition of the ion engin
 of components and is therefore representative of one particular configuration. It be updated to represent any ion
 engine given one's specific constraints or engineering reality.
 The Ion Propulsion System is therefore decomposed into 3 submodules:
-• The Propulsion Module: it is comprised of the engine itself, the gimbal system, the propellant tank, the associated
+  • The Propulsion Module: it is comprised of the engine itself, the gimbal system, the propellant tank, the associated
 distribution system, the cabling carrying power, and the overall support structure.
-• The Electrical Power System: it is responsible for processing the power coming from the power source, either
+  • The Electrical Power System: it is responsible for processing the power coming from the power source, either
 solar or nuclear, and is comprised of Power Processing Unit(s) (PPUs), high and low voltage power distribution
 systems, converter, Data Handling System (DHS), thermal control systems, the overall support structure, and the
 battery system when the solar power source configuration is adopted.
-• The Power Interface Module: only applies when the solar power source configuration is envisioned. It considers
+  • The Power Interface Module: only applies when the solar power source configuration is envisioned. It considers
 the solar array and the systems associated with it such as the Power Monitor Unit (PMU), the articulation
 mechanism, roll rings, and the overall support structure.
 Table 1 gives a visual representation of this decomposition
